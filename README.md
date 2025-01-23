@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Mohammed Omran and I'm a MEARN stack developer.</h2>
+<h2 align="left">Hi 👋! I'm Mohammed Omran and I'm a MEARN stack web developer.</h2>
 
 ###
 

@@ -57,6 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Omran950/Omran950/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Omran950/Omran950/output/snake.svg](https://github.com/Omran950/Omran950/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
